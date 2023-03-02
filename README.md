@@ -1,10 +1,16 @@
-# Screenshots
+# Somali-Nuker-V2
 
-![image](https://user-images.githubusercontent.com/126622792/222568269-3e3a526b-0d73-49f6-a5dd-232ace5b0f4d.png)
+## This was made by K.Dot and Godfather
 
-# Features
-✅ Delete Channels
-✅ Create Channels
-✅ Delete Roles
-✅ Create Roles
-✅ Spam Webhooks
+## How to use?
+
+Step 1.) download\
+Step 2.) extract zip or whatever floats ur boat\
+Step 3.) change config to ur liking\
+Step 4.) nuke
+
+Dont sell to kids
+
+I'm also sick of making good readme's so its gonna stay like this.
+
+SERVER INV = https://discord.gg/batch (before some sweaty kid with acne that covers his whole face joins just to talk shi abt my nuker rethink all ur life decisions up to this point and reflect.)

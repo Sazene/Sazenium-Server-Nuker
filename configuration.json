@@ -1,0 +1,10 @@
+{
+    "TOKEN": "YOUR_TOKEN_HERE",
+    "SPAM_PRN": false,
+    "AMMOUNT_OF_CHANNELS": 10,
+    "MESSAGES_PER_CHANNEL": 20,
+    "MESSAGE": "@everyone TEST",
+    "CHANNEL_NAMES": "TEST",
+    "SERVER_NAME": "TEST",
+    "REST_TIME": 0.5
+}
